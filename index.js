@@ -27,6 +27,7 @@ if we reach the middle, and all the letters match, return true
 
 /*
   Add written explanation of your solution here
+  the function isPalendrom will return  if an entered  word is palindrome or not  based on booleen (true or false ) 
 */
 
 // You can run `node index.js` to view these console logs
